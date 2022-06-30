@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blackhammer2000
-- 👀 I’m interested in ...react, node, oop
+- 👀 I’m interested in ...react, typescript, node, oop
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...any web dev project
 - 📫 How to reach me ... waweruzamuel@gmail.com
