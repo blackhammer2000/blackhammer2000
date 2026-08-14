@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Waweru Sam
 
-## 🚀 Freelance Software Engineer
+## 🚀Software Engineer
 
 I'm a passionate problem solver who dreams in code. With expertise in **JavaScript**, **React**, **MongoDB**, and **Node.js**, I craft robust solutions for web and backend projects. My favorite pastime is tackling LeetCode challenges, brain-teasing puzzles, and riddles. When I'm not coding, you'll probably find me playing sports or brainstorming new app ideas.
 
@@ -33,7 +33,7 @@ Check out more cool work in my [GitHub Repos](https://github.com/blackhammer2000
 
 ### 🤓 Fun Fact
 
-> I literally dream in code.
+> I dream in code.
 
 ---
 
@@ -62,8 +62,8 @@ Check out more cool work in my [GitHub Repos](https://github.com/blackhammer2000
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-samwaweru2000-blue?style=flat&logo=linkedin)](https://linkedin.com/samwaweru2000)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-samuelwaweru2000-blue?style=flat&logo=linkedin)](https://linkedin.com/samwaweru2000)
 
 ---
 
-_“Turning logic into solutions, one problem at a time.”_.
+_“Turning code into solutions, one problem at a time.”_.
