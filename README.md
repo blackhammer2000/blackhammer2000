@@ -62,7 +62,7 @@ Check out more cool work in my [GitHub Repos](https://github.com/blackhammer2000
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-samuelwaweru2000-blue?style=flat&logo=linkedin)](https://linkedin.com/samwaweru2000)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-samuelwaweru2000-blue?style=flat&logo=linkedin)](https://linkedin.com/in/samuelwaweru2000)
 
 ---
 
