@@ -2,7 +2,7 @@
 
 ## 🚀Software Engineer
 
-I'm a passionate problem solver who dreams in code. With expertise in **JavaScript**, **React**, **MongoDB**, and **Node.js**, I craft robust solutions for web and backend projects. My favorite pastime is tackling LeetCode challenges, brain-teasing puzzles, and riddles. When I'm not coding, you'll probably find me playing sports or brainstorming new app ideas.
+I'm a passionate problem solver whose favorite tool is code. With expertise in **JavaScript**, **React**, **MongoDB**, and **Node.js**, I craft robust solutions for web and backend projects. My favorite pastime is tackling LeetCode challenges, brain-teasing puzzles, and riddles. When I'm not coding, you'll probably find me playing sports or brainstorming new app ideas.
 
 ---
 
